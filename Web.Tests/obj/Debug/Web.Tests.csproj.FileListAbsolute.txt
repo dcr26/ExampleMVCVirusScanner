@@ -1,0 +1,13 @@
+c:\users\david\documents\visual studio 2013\Projects\VirusScanningExample\Web.Tests\obj\Debug\Web.Tests.csprojResolveAssemblyReference.cache
+c:\users\david\documents\visual studio 2013\Projects\VirusScanningExample\Web.Tests\bin\Debug\Web.Tests.dll
+c:\users\david\documents\visual studio 2013\Projects\VirusScanningExample\Web.Tests\bin\Debug\Web.Tests.pdb
+c:\users\david\documents\visual studio 2013\Projects\VirusScanningExample\Web.Tests\bin\Debug\nClam.dll
+c:\users\david\documents\visual studio 2013\Projects\VirusScanningExample\Web.Tests\bin\Debug\nunit.framework.dll
+c:\users\david\documents\visual studio 2013\Projects\VirusScanningExample\Web.Tests\bin\Debug\Web.dll
+c:\users\david\documents\visual studio 2013\Projects\VirusScanningExample\Web.Tests\bin\Debug\System.Web.Optimization.dll
+c:\users\david\documents\visual studio 2013\Projects\VirusScanningExample\Web.Tests\bin\Debug\System.Web.Mvc.dll
+c:\users\david\documents\visual studio 2013\Projects\VirusScanningExample\Web.Tests\bin\Debug\Web.pdb
+c:\users\david\documents\visual studio 2013\Projects\VirusScanningExample\Web.Tests\bin\Debug\nunit.framework.xml
+c:\users\david\documents\visual studio 2013\Projects\VirusScanningExample\Web.Tests\bin\Debug\System.Web.Mvc.xml
+c:\users\david\documents\visual studio 2013\Projects\VirusScanningExample\Web.Tests\obj\Debug\Web.Tests.dll
+c:\users\david\documents\visual studio 2013\Projects\VirusScanningExample\Web.Tests\obj\Debug\Web.Tests.pdb

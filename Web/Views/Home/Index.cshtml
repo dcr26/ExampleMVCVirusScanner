@@ -1,0 +1,11 @@
+﻿@model dynamic
+
+<h1>Upload file to scan for virus</h1>
+
+<h3>@ViewBag.Message</h3>
+
+@using (Html.BeginForm("Index","Home",FormMethod.Post,new {enctype = "multipart/form-data"})) {
+    <label for="file">Upload Image:</label>
+    <input type="file" name="file" id="file" /><br><br>
+    <input type="submit" value="Scan File" />
+}
